@@ -1,5 +1,2 @@
-"# RecAI" 
-"# RecAI" 
-"# RecAI" 
-"# RecAI" 
-"# RecAI" 
+# Gold-recovery-AI
+ final year project
