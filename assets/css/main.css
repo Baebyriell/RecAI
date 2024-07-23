@@ -2474,8 +2474,8 @@ input, select, textarea {
 
 	.table-wrapper {
 		overflow-x: auto;
-		-webkit-overflow-scrolling: touch;
-	}
+		-webkit-overflow-scrolling : touch;
+    }
 
 	table {
 		width: 100%;
