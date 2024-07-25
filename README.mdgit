@@ -1,1 +1,2 @@
 "# RecAI"  add README.mdgit commit -m "first commit"git branch -M maingit add .git commit -m "Initial commit"git remote add origin https://github.com/Baebyriell/RecAI.gitgit push -u origin main
+"# RecAI"  add README.mdgit commit -m "first commit"# Set the main branchgit branch -M main# Add remote repository and pushgit remote add origin https://github.com/Baebyriell/RecAI.gitgit push -u origin main
